@@ -1,0 +1,200 @@
+html,
+body {
+  height: 100%;
+  font-family: "Inter", sans-serif;
+  font-family: "Poppins", sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 1818px;
+  width: 100%;
+  min-width: 320px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+a {
+  color: #f9f9fa;
+  text-decoration: none;
+}
+
+p {
+  color: #707176;
+  /* text-align: center; */
+  font-family: "Inter";
+  font-size: 25.6px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%;
+  letter-spacing: -0.282px;
+}
+
+li {
+  list-style: none;
+}
+
+img {
+  display: block;
+  /* width: 100%; */
+
+}
+
+button,
+label {
+  cursor: pointer;
+}
+
+button {
+  cursor: pointer;
+}
+
+.dn {
+  display: none;
+}
+
+.color {
+  color: #f9f9fa;
+}
+
+.dib {
+  display: inline-block;
+}
+
+.flex {
+  display: flex;
+  /* flex-wrap: wrap; */
+  justify-content: space-between;
+}
+
+section {
+  padding: 100px 0;
+}
+
+
+body {
+  background-color: #303033;
+}
+
+.magazine {
+  border: 1px solid #D8D9DA;
+  width: 30%;
+  align-items: flex-start;
+  padding: 24px 24px;
+}
+
+.magazine img {
+  width: 258px;
+  justify-content: space-between;
+}
+
+.info {
+  width: 38%;
+  font-weight: 500;
+  line-height: 150%;
+  font-family: "Inter";
+}
+
+.m_tit {
+  color: #E52C1A;
+  font-size: 27.2px;
+  letter-spacing: -0.299px;
+}
+
+.m_p {
+  color: #707176;
+  font-size: 16px;
+  letter-spacing: -0.176px;
+}
+.marketplace img {
+  width: 352px;
+  align-items: flex-start;
+  margin-left: 70px;
+}
+.festival {
+  overflow: hidden;
+  border-radius: 6px;
+  width: 446px;
+  align-items: flex-start;
+  margin-left: 70px;
+}
+.up_to_off .info {
+  background-image: url(./img/discount.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  text-decoration: none;
+  width: 100%;
+  height: 350px;
+  align-items: flex-start;
+  background-size: cover;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.up_to_off .txt {
+  color: #fff;
+  text-align: center;
+  font-size: 50px;
+  font-weight: 400;
+}
+
+.up_to_off .tit {
+  color: #fff;
+  text-align: center;
+  font-size: 100px;
+  font-weight: 500px;
+}
+
+footer {
+  /* background-image: url(/img/footer.jpg); */
+  background: #051F0C;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+
+.footer_copy {
+  color: #F9F9FA;
+  text-align: center;
+  font-size: 16px;
+}
+
+.letter {
+  margin-bottom: 72px;
+  display: flex;
+  justify-content: center;
+  background: #092711;
+  width: 100%;
+  margin-top: 60px;
+}
+
+footer .flex {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+}
+
+.footer_logo {
+  margin-bottom: -36px;
+}
+.block{
+  display: flex;
+  justify-content: center;
+}
+.line{
+    border: 0.5px solid #3c3d3f;
+    margin-bottom: 20px;
+    margin-top: 20px;
+/* fill: #D9D9D9;
+stroke-width: 0.4px;
+stroke: #707176;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)); */
+}

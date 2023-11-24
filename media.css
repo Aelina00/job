@@ -1,0 +1,80 @@
+@media (max-width:1750px){
+    
+    .festival img{
+        width: 430px;
+    }
+    .marketplace{
+        width: 430px;
+    }
+    .up_to_off .info{
+		width: 1850px;
+	}
+}
+@media (max-width:1600px){
+    .magazine{
+        width: 600px;
+    }
+    .magazine img{
+        width: 250px;
+    }
+    .festival img{
+        width: 420px;
+    }
+    .marketplace{
+        width: 420px;
+    }
+    .up_to_off .info{
+		width: 1500px;
+	}
+}
+@media (max-width:1500px){
+    .magazine{
+        width: 560px;
+    }
+    .magazine img{
+        width: 255px;
+    }
+    .festival img{
+        width: 400px;
+    }
+    .marketplace{
+        width: 400px;
+    }
+    .up_to_off .info{
+		width: 1400px;
+	}
+}
+@media (max-width:1450px){
+    .magazine{
+        width: 530px;
+    }
+    .magazine img{
+        width: 245px;
+    }
+    .festival img{
+        width: 370px;
+    }
+    .marketplace{
+        width: 370px;
+    }
+    .up_to_off .info{
+		width: 1400px;
+	}
+}
+@media (max-width:1380px){
+    .magazine{
+        width: 400px;
+    }
+    .magazine img{
+        width: 230px;
+    }
+    .festival img{
+        width: 340px;
+    }
+    .marketplace{
+        width: 340px;
+    }
+    .up_to_off .info{
+		width: 1000px;
+	}
+}
